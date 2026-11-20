@@ -1,0 +1,43 @@
+
+FM Radio Linux CLI Bash
+
+
+https://jnet.forumotion.com/t2177-fmradio-linux-script?highlight=linux+fm+cli
+
+
+https://github.com/jamieduk/FM-Radio-Linux-CLI/upload
+
+
+
+
+./start.sh
+
+
+# if you prefere
+
+sudo cp start.sh /usr/bin/fmradio && sudo chmod +x /usr/bin/fmradio
+
+fmradio
+
+
+
+To use as a program
+
+sudo cp start.sh /usr/bin/fmradio && sudo chmod +x /usr/bin/fmradio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
