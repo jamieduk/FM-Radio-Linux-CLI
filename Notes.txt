@@ -5,7 +5,7 @@ FM Radio Linux CLI Bash
 https://jnet.forumotion.com/t2177-fmradio-linux-script?highlight=linux+fm+cli
 
 
-https://github.com/jamieduk/FM-Radio-Linux-CLI/upload
+https://github.com/jamieduk/FM-Radio-Linux-CLI
 
 
 
